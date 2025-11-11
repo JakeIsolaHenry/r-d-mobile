@@ -1520,88 +1520,175 @@ LinkTree
                         <div class="arrow arrow1">→</div>
 
                         <div class="phone phone2-solar">
-                            <div class="stage-label">CONTENT WITH KEYWORD BLOCK</div>
-                            <div class="phone-screen">
-                                <div class="phone-notch"></div>
-                                <div class="article solar phone-content">
-                                    <div style="background: white; padding: 18px; border-radius: 15px; margin-bottom: 18px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
-                                        <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 15px;">
-                                            <div style="width: 30px; height: 30px; background: linear-gradient(135deg, #f5a623, #4CAF50); border-radius: 6px;"></div>
-                                            <span style="font-weight: 600; font-size: 14px; color: #1a1a1a;">SolarTech Solutions</span>
-                                        </div>
-                                        <h1 style="font-size: 19px; font-weight: 700; line-height: 1.3; margin-bottom: 8px; color: #1a1a1a;">How Solar Energy Reduces Costs and Boosts Home Value</h1>
-                                        <div style="font-size: 11px; color: #999; margin-bottom: 12px;">By Nikki Cross • Jan 9, 2025</div>
-                                        <p style="font-size: 13px; color: #555; line-height: 1.6;">Solar energy presents an exceptional opportunity for American homeowners to realize significant financial savings alongside environmental benefits. By reducing electricity bills and potentially increasing property values, solar panels offer a versatile solution to lower energy consumption.</p>
-                                    </div>
+                           <div class="phone phone2-solar">
+    <div class="stage-label">CONTENT WITH KEYWORD BLOCK</div>
+    <div class="phone-screen">
+        <div class="phone-notch"></div>
+        <div class="article solar phone-content" style="background: white; padding: 0;">
+            <!-- Header -->
+            <div style="display: flex; align-items: center; justify-between; padding: 15px; border-bottom: 1px solid #e0e0e0;">
+                <div style="font-size: 20px;">☰</div>
+                <div style="display: flex; align-items: center; gap: 8px;">
+                    <div style="width: 24px; height: 24px; background: #ff9500; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
+                        <span style="color: white; font-weight: bold; font-size: 12px;">N</span>
+                    </div>
+                    <span style="font-weight: 700; font-size: 16px;">Nation</span>
+                </div>
+                <div style="width: 20px;"></div>
+            </div>
 
-                                    <div style="background: white; padding: 15px; border-radius: 15px; margin-bottom: 18px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
-                                        <div style="font-size: 12px; color: #666; font-weight: 600; margin-bottom: 12px;">Related searches</div>
-                                        <div style="display: flex; flex-direction: column; gap: 10px;">
-                                            <button style="background: linear-gradient(135deg, #667eea, #764ba2); color: white; border: none; padding: 12px 14px; border-radius: 8px; font-size: 13px; font-weight: 600; text-align: left; display: flex; align-items: center; justify-content: space-between; cursor: pointer; box-shadow: 0 2px 6px rgba(102, 126, 234, 0.3);">
-                                                <span>Solar Panel Installation</span>
-                                                <span>›</span>
-                                            </button>
-                                            <button style="background: linear-gradient(135deg, #667eea, #764ba2); color: white; border: none; padding: 12px 14px; border-radius: 8px; font-size: 13px; font-weight: 600; text-align: left; display: flex; align-items: center; justify-content: space-between; cursor: pointer; box-shadow: 0 2px 6px rgba(102, 126, 234, 0.3);">
-                                                <span>Residential Solar Panels Near Me</span>
-                                                <span>›</span>
-                                            </button>
-                                            <button style="background: linear-gradient(135deg, #667eea, #764ba2); color: white; border: none; padding: 12px 14px; border-radius: 8px; font-size: 13px; font-weight: 600; text-align: left; display: flex; align-items: center; justify-content: space-between; cursor: pointer; box-shadow: 0 2px 6px rgba(102, 126, 234, 0.3);">
-                                                <span>Solar Panel Energy Savings</span>
-                                                <span>›</span>
-                                            </button>
-                                        </div>
-                                    </div>
+            <div style="padding: 20px;">
+                <!-- Article Title -->
+                <h1 style="font-size: 22px; font-weight: 700; line-height: 1.3; margin-bottom: 10px; color: #1a1a1a;">
+                    How Solar Energy Reduces Costs and Boosts Home Value
+                </h1>
+                
+                <div style="font-size: 12px; color: #999; margin-bottom: 20px;">By Nikki Cross • Jan 9, 2025</div>
+                
+                <!-- Article Body -->
+                <p style="font-size: 14px; color: #333; line-height: 1.6; margin-bottom: 20px;">
+                    Solar energy presents an exceptional opportunity for American homeowners to realize significant financial savings alongside environmental benefits. By reducing electricity bills and potentially increasing property values, solar panels offer a versatile solution to lower energy consumption. With incentives available to mitigate initial costs and community solar projects providing accessible alternatives, solar power serves as an efficient and sustainable choice for diverse households. Examine the factors shaping solar's appeal and discover its transformative impact on energy use and household economics.
+                </p>
 
-                                    <div style="background: white; padding: 15px; border-radius: 15px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
-                                        <p style="font-size: 13px; color: #555; line-height: 1.6;">With incentives available to mitigate initial costs and community solar projects providing accessible alternatives, solar power serves as an efficient and sustainable choice for diverse households.</p>
-                                    </div>
-                                </div>
-                            </div>
+                <!-- Related Searches -->
+                <div style="margin-bottom: 20px;">
+                    <div style="font-size: 11px; color: #666; font-weight: 600; margin-bottom: 12px;">Related searches</div>
+                    <div style="display: flex; flex-direction: column; gap: 8px;">
+                        <button style="background: #5856d6; color: white; border: none; padding: 14px 16px; border-radius: 8px; font-size: 14px; font-weight: 600; text-align: left; display: flex; align-items: center; justify-between; cursor: pointer;">
+                            <span style="display: flex; align-items: center; gap: 8px;">
+                                <span>›</span>
+                                <span>Solar Panel Installation</span>
+                            </span>
+                            <span>›</span>
+                        </button>
+                        <button style="background: #5856d6; color: white; border: none; padding: 14px 16px; border-radius: 8px; font-size: 14px; font-weight: 600; text-align: left; display: flex; align-items: center; justify-between; cursor: pointer;">
+                            <span style="display: flex; align-items: center; gap: 8px;">
+                                <span>›</span>
+                                <span>Residential Solar Panels Near Me</span>
+                            </span>
+                            <span>›</span>
+                        </button>
+                        <button style="background: #5856d6; color: white; border: none; padding: 14px 16px; border-radius: 8px; font-size: 14px; font-weight: 600; text-align: left; display: flex; align-items: center; justify-between; cursor: pointer;">
+                            <span style="display: flex; align-items: center; gap: 8px;">
+                                <span>›</span>
+                                <span>Solar Panel Energy Savings</span>
+                            </span>
+                            <span>›</span>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Read More -->
+                <div style="text-align: center; margin-bottom: 25px;">
+                    <button style="color: #ff9500; background: none; border: none; font-weight: 600; font-size: 14px; cursor: pointer;">
+                        Read More...
+                    </button>
+                </div>
+
+                <!-- Author Bio -->
+                <div style="background: #f8f9fa; border-radius: 12px; padding: 16px; margin-bottom: 20px;">
+                    <div style="display: flex; gap: 12px;">
+                        <div style="width: 48px; height: 48px; background: #ff9500; border-radius: 50%; display: flex; align-items: center; justify-content: center; flex-shrink: 0;">
+                            <span style="color: white; font-weight: bold; font-size: 20px;">N</span>
                         </div>
-
-                        <div class="arrow arrow2">→</div>
-
-                        <div class="phone phone3-solar">
-                            <div class="stage-label">SERP (SEARCH ENGINE RESULTS PAGE)</div>
-                            <div class="phone-screen">
-                                <div class="phone-notch"></div>
-                                <div class="serp solar phone-content">
-                                    <div style="background: white; padding: 14px 18px; border-radius: 28px; display: flex; align-items: center; gap: 10px; margin-bottom: 18px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
-                                        <span style="font-size: 18px;">🔍</span>
-                                        <span style="font-size: 14px; color: #666;">Solar Panel Installation</span>
-                                    </div>
-                                    
-                                    <div style="background: white; border-radius: 16px; padding: 16px; margin-bottom: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
-                                        <div style="display: inline-block; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 4px 10px; border-radius: 10px; font-size: 10px; font-weight: 600; margin-bottom: 10px;">Sponsored</div>
-                                        <div style="font-size: 11px; color: #70757a; margin-bottom: 4px;">acelenrenovaveis.com.br</div>
-                                        <div style="font-size: 15px; font-weight: 600; color: #1a0dab; margin-bottom: 8px; line-height: 1.3;">Macauba: 90,000 more jobs - Aceleri boosts careers</div>
-                                        <div style="font-size: 13px; color: #4d5156; line-height: 1.5; margin-bottom: 12px;">Aceleri Renewables will create opportunities for the local economy through bio-diesel. Advancing local development with renewable energy innovation.</div>
-                                        <button style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 11px; border: none; border-radius: 22px; font-size: 13px; font-weight: 600; width: 100%; cursor: pointer; box-shadow: 0 2px 6px rgba(102, 126, 234, 0.3);">Visit Website</button>
-                                    </div>
-
-                                    <div style="background: white; border-radius: 16px; padding: 16px; margin-bottom: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
-                                        <div style="display: inline-block; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 4px 10px; border-radius: 10px; font-size: 10px; font-weight: 600; margin-bottom: 10px;">Sponsored</div>
-                                        <div style="font-size: 11px; color: #70757a; margin-bottom: 4px;">homeadvisor.com/electrical</div>
-                                        <div style="font-size: 15px; font-weight: 600; color: #1a0dab; margin-bottom: 8px; line-height: 1.3;">Just Enter Your Zip Code - Lighting Experts</div>
-                                        <div style="font-size: 13px; color: #4d5156; line-height: 1.5; margin-bottom: 12px;">Read reviews, view cost estimates, and get matched with electricians near you.</div>
-                                        <button style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 11px; border: none; border-radius: 22px; font-size: 13px; font-weight: 600; width: 100%; cursor: pointer; box-shadow: 0 2px 6px rgba(102, 126, 234, 0.3);">Visit Website</button>
-                                    </div>
-
-                                    <div style="background: white; border-radius: 16px; padding: 16px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
-                                        <div style="display: inline-block; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 4px 10px; border-radius: 10px; font-size: 10px; font-weight: 600; margin-bottom: 10px;">Sponsored</div>
-                                        <div style="font-size: 11px; color: #70757a; margin-bottom: 4px;">answerpedia.co/energy_audit</div>
-                                        <div style="font-size: 15px; font-weight: 600; color: #1a0dab; margin-bottom: 8px; line-height: 1.3;">Why Homes Need Energy Audits - Boost Home Energy Savings</div>
-                                        <div style="font-size: 13px; color: #4d5156; line-height: 1.5; margin-bottom: 12px;">Maximize Energy Efficiency In Your Home With A Professional Audit That Finds Hidden Waste</div>
-                                        <button style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 11px; border: none; border-radius: 22px; font-size: 13px; font-weight: 600; width: 100%; cursor: pointer; box-shadow: 0 2px 6px rgba(102, 126, 234, 0.3);">Visit Website</button>
-                                    </div>
-                                </div>
-                            </div>
+                        <div>
+                            <h3 style="font-weight: 700; font-size: 16px; margin-bottom: 4px;">Nikki Cross</h3>
+                            <p style="font-size: 11px; color: #666; margin-bottom: 8px;">Contributor</p>
+                            <p style="font-size: 12px; color: #555; line-height: 1.5;">
+                                Nikki Cross is a versatile writer with a passion for uncovering insightful stories and delivering practical advice. Covering a wide range of topics—from finance and technology to travel and lifestyle—she strives to provide readers with clear, engaging, and informative content. When she's not writing, Nikki enjoys exploring new cities, trying out the latest tech gadgets, and hunting for the best coffee spots.
+                            </p>
                         </div>
+                    </div>
+                </div>
+
+                <!-- Footer -->
+                <div style="border-top: 1px solid #e0e0e0; padding-top: 16px; text-align: center;">
+                    <div style="display: flex; align-items: center; justify-content: center; gap: 8px; margin-bottom: 12px;">
+                        <div style="width: 24px; height: 24px; background: #ff9500; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
+                            <span style="color: white; font-weight: bold; font-size: 12px;">N</span>
+                        </div>
+                        <span style="font-weight: 700; font-size: 16px;">Nation</span>
+                    </div>
+                    <div style="display: flex; justify-content: center; gap: 16px; font-size: 11px; color: #666;">
+                        <a href="#" style="color: #666; text-decoration: none;">About</a>
+                        <a href="#" style="color: #666; text-decoration: none;">Contact Us</a>
+                        <a href="#" style="color: #666; text-decoration: none;">Privacy Policy</a>
+                        <a href="#" style="color: #666; text-decoration: none;">Terms</a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+</div>
+                        <div class="arrow arrow2">→</div>
+
+                        <div class="phone phone3-solar">
+                           <div class="phone phone3-solar">
+    <div class="stage-label">SERP (SEARCH ENGINE RESULTS PAGE)</div>
+    <div class="phone-screen">
+        <div class="phone-notch"></div>
+        <div class="serp solar phone-content" style="background: white; padding: 20px;">
+            <!-- Search Bar -->
+            <div style="background: #f1f3f4; padding: 12px 16px; border-radius: 24px; display: flex; align-items: center; gap: 10px; margin-bottom: 20px;">
+                <span style="font-size: 16px;">🔍</span>
+                <span style="font-size: 14px; color: #5f6368;">Results for "Solar Panel Installation"</span>
+            </div>
+            
+            <!-- Ads Section -->
+            <h2 style="font-size: 16px; font-weight: 600; margin-bottom: 16px; color: #202124;">Ads</h2>
+            
+            <!-- Ad 1 -->
+            <div style="background: #fff; border: 1px solid #dadce0; border-radius: 8px; padding: 16px; margin-bottom: 12px;">
+                <div style="font-size: 11px; color: #5f6368; margin-bottom: 4px;">acelenrenovaveis.com.br</div>
+                <div style="font-size: 16px; font-weight: 500; color: #1a0dab; margin-bottom: 8px;">Macauba: 90,000 more jobs</div>
+                <div style="font-size: 13px; color: #4d5156; margin-bottom: 2px;">Aceleri boosts careers - Commitment to the future</div>
+            </div>
+
+            <!-- Ad 2 -->
+            <div style="background: #fff; border: 1px solid #dadce0; border-radius: 8px; padding: 16px; margin-bottom: 12px;">
+                <div style="font-size: 11px; color: #5f6368; margin-bottom: 4px;">homeadvisor.com</div>
+                <div style="font-size: 16px; font-weight: 500; color: #1a0dab; margin-bottom: 8px;">Just Enter Your Zip Code</div>
+                <div style="font-size: 13px; color: #4d5156; margin-bottom: 2px;">Lighting Experts</div>
+            </div>
+
+            <!-- Ad 3 -->
+            <div style="background: #fff; border: 1px solid #dadce0; border-radius: 8px; padding: 16px; margin-bottom: 12px;">
+                <div style="font-size: 11px; color: #5f6368; margin-bottom: 4px;">energysavings.com</div>
+                <div style="font-size: 16px; font-weight: 500; color: #1a0dab; margin-bottom: 8px;">Why Homes Need Energy Audits</div>
+                <div style="font-size: 13px; color: #4d5156; margin-bottom: 2px;">Boost Home Energy Savings Tips</div>
+            </div>
+
+            <!-- Ad 4 -->
+            <div style="background: #fff; border: 1px solid #dadce0; border-radius: 8px; padding: 16px; margin-bottom: 20px;">
+                <div style="font-size: 11px; color: #5f6368; margin-bottom: 4px;">sungoldpower.com</div>
+                <div style="font-size: 16px; font-weight: 500; color: #1a0dab; margin-bottom: 8px;">Home & Residential Solar Kits</div>
+                <div style="font-size: 13px; color: #4d5156;">Shop online at SunGoldPower for complete solar power kits for homes. Explore our selection of solar panel kits and bring renewable energy to your home with ...</div>
+            </div>
+
+            <!-- Organic Results -->
+            <!-- Organic 1 -->
+            <div style="background: #fff; padding: 12px 0; margin-bottom: 16px; border-bottom: 1px solid #f0f0f0;">
+                <div style="font-size: 11px; color: #5f6368; margin-bottom: 4px;">www.gogreensolar.com</div>
+                <div style="font-size: 18px; font-weight: 500; color: #1a0dab; margin-bottom: 6px;">Shop Solar Panels for Home | GoGreenSolar</div>
+                <div style="font-size: 13px; color: #4d5156; line-height: 1.5;">Our solar panels cost between $300 to $400 per panel, which is a competitive price considering the brands' top-tier quality and high standards. Some solar ...</div>
+            </div>
+
+            <!-- Organic 2 -->
+            <div style="background: #fff; padding: 12px 0; margin-bottom: 16px; border-bottom: 1px solid #f0f0f0;">
+                <div style="font-size: 11px; color: #5f6368; margin-bottom: 4px;">www.energy.gov</div>
+                <div style="font-size: 18px; font-weight: 500; color: #1a0dab; margin-bottom: 6px;">Homeowner's Guide to Going Solar - Department of Energy</div>
+                <div style="font-size: 13px; color: #4d5156; line-height: 1.5;">Buying a solar energy system will likely increase your home's value. A recent study found that solar panels are viewed as upgrades, just like a renovated ...</div>
+            </div>
+
+            <!-- Organic 3 -->
+            <div style="background: #fff; padding: 12px 0;">
+                <div style="font-size: 11px; color: #5f6368; margin-bottom: 4px;">www.tesla.com</div>
+                <div style="font-size: 18px; font-weight: 500; color: #1a0dab; margin-bottom: 6px;">Home Solar Panels and Systems | Tesla</div>
+                <div style="font-size: 13px; color: #4d5156; line-height: 1.5;">Tesla uses solar panels that offer a sleek and modern take on traditional panels. With our proprietary mounting hardware, panels can be installed close to your ...</div>
+            </div>
+        </div>
+    </div>
+</div>
 
     <div class="footer">
         <h2>Multiple Paths to Monetization</h2>
